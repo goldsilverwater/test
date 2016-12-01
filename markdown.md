@@ -10,8 +10,7 @@
 ## 3. flex 속성
 flex, flex-order 
 > ### flex
-test
-test
-test
+test test test
+test2 test2
 
-
+<img src="ajax-loader (1).gif"/>
