@@ -8,4 +8,10 @@
 예) 코드소스
 
 ## 3. flex 속성
-### 
+flex, flex-order 
+> ### flex
+test
+test
+test
+
+
